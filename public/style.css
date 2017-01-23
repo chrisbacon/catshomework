@@ -1,0 +1,17 @@
+body {
+    background-color: #fdf5e6;
+    font-family: verdana;
+}
+
+#cats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cat {
+    padding: 2px;
+    margin: 4px;
+    list-style-type: none;
+    border: 1px black solid;
+}
